@@ -3,9 +3,9 @@
 #print("PYTHON"[:-3:-1])
 #print("PYTHON"[:-3:-2])
 
-#str = "xoooxxxox"
+str = "xoooxxxox"
 
-str = input("wprowadz: ")
+#str = input("wprowadz: ")
 if str[0] == str[4] == str[8]:
     if str[0] == 'x':
         print("Wygral x")
